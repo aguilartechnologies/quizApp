@@ -63,7 +63,7 @@ function getSelected() {
  let answer = undefined;
 
  answerEls.forEach((answerEl) => {
-   if (answerEls.checked) {
+   if (answerEl.checked) {
      answer = answerEl.id;
    }
  });

@@ -60,7 +60,8 @@ button {
     padding: 1.3rem;
 }
 
-button:hover {background-color: #732d91;
+button:hover {
+    background-color: #732d91;
 }
 
 button:focus {
